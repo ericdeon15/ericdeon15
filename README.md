@@ -8,12 +8,17 @@ Outside of programming, I enjoy reading, playing tennis, hiking the 4k footers a
 
 ## Highlights
 
-- 🎓 Phi Beta Kappa, Sigma Pi Sigma
-- 👨‍🏫 Teaching Assistant for Programming Languages
-- 📊 Former Data Intern at Battery Ventures
-- 🤝 Agile/Scrum software development experience
+- Phi Beta Kappa, Sigma Pi Sigma
+- Teaching Assistant for Programming Languages
+- Former Data Intern at Battery Ventures
+- Agile/Scrum software development experience
 
 ## Currently working on
+
+**Spotiframe** — a ESP32-powered touch display to see my currently playing Spotify songs
+
+➡️ [See it here!](https://github.com/ericdeon15/spotiframe)
+
 **MiniML** — a small language in OCaml and suite of developer tools to support it
   
 ➡️ [See it here!](https://github.com/ericdeon15/miniml)
